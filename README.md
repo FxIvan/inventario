@@ -3,7 +3,7 @@
 
 ** Codigo de Conexion **
 
-![codigo](src\img\git\Codigo.png)
+![codigo](https://github.com/FxIvan/inventario/blob/agregandoReact/src/img/git/Codigo.png?raw=true)
 
 ** Como aparece en el visualizador Robot 3T **
-![Robot3T](src\img\git\mongoDB-1.png)
+![Robot3T]()
